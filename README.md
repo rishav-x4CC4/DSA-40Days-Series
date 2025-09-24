@@ -7,8 +7,8 @@ Each day focuses on different concepts, starting from C++ fundamentals and gradu
 
 ## 📅 Progress Tracker
 
-- [Day 01 – Basics of C++ & Simple Programs](./Day01/README.md)
-- [Day 02 – Operators, Input Handling & Character Processing](./Day02/README.md)
+- [Day 01 – Basics of C++ & Simple Programs](./Day01/Readme.md)
+- [Day 02 – Operators, Input Handling & Character Processing](./Day02/Readne.md)
 - Day 03 – Coming soon...
 - ...
 - Day 40 – Final wrap-up
