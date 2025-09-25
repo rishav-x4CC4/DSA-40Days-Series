@@ -1,15 +1,16 @@
 # 🚀 40 Days DSA & C++ Series
 
 This repository documents my **40 Days of Data Structures & Algorithms (DSA)** journey using **C++**.  
-Each day contains multiple problems, their solutions, and small concepts implemented in code.
+Each day contains multiple problems, their solutions, and concepts implemented in code.
 
 ---
 
 ## 📂 Folder Structure
 
-- **Day01/** → Basics & first problems  
-- **Day02/** → Arrays & simple programs  
+- **Day01/** → Basics & simple problems  
+- **Day02/** → Arrays & practice problems  
 - **Day03/** → Sorting algorithms + control statements  
+- **Day04/** → Functions & conditionals  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -22,28 +23,36 @@ Each folder has:
 ## 📅 Daily Progress
 
 ### 🔹 Day 01
-- Solved beginner-level problems (pattern printing, simple arrays, loops).
-- Practiced basic input/output and fundamental logic building.
+- Solved beginner-level problems (patterns, loops, and basic arrays).  
+- Focused on **input/output** and **logic building**.
 
 ### 🔹 Day 02
-- Focused more on **arrays** and **loops**.
-- Worked on small problem-solving exercises (finding min/max, sums, searching, etc.).
+- Practiced **arrays and loops**.  
+- Solved problems like **finding max/min, sums, searching elements**.  
+- Did small exercises with **pattern printing**.  
 
 ### 🔹 Day 03
 - Implemented **sorting algorithms**:
   - Bubble Sort
   - Selection Sort
   - Insertion Sort
-- Array-based problem: **Find three largest elements**  
-- Practiced **switch statement** & **ternary operator**
+- Solved array problem: **Find three largest elements**.  
+- Practiced **switch statement** & **ternary operator**.  
 
-*(More details inside each `DayXX/readme.md`)*
+### 🔹 Day 04
+- Learned **functions in C++**.  
+- Programs: 
+  - Greeting Message  
+  - Check Even/Odd  
+  - Function to Swap Numbers  
+  - Prime Number Check  
+- Strengthened **conditionals** and function usage.  
 
 ---
 
 ## 🎯 Goals of This Series
-- Strengthen **DSA concepts** using C++.
-- Practice coding daily with consistency.  
+- Strengthen **DSA concepts** using C++.  
+- Practice coding **daily with consistency**.  
 - Build a strong foundation for **competitive programming** and **interviews**.
 
 ---
