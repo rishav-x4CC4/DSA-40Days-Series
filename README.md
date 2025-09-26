@@ -11,6 +11,7 @@ Each day contains multiple problems, their solutions, and concepts implemented i
 - **Day02/** → Arrays & practice problems  
 - **Day03/** → Sorting algorithms + control statements  
 - **Day04/** → Functions & conditionals  
+- **Day05/** → Searching algorithms & problem solving  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -47,6 +48,14 @@ Each folder has:
   - Function to Swap Numbers  
   - Prime Number Check  
 - Strengthened **conditionals** and function usage.  
+
+### 🔹 Day 05
+- Implemented **Binary Search** and its variations:
+  - First Occurrence
+  - Last Occurrence  
+- Solved **Unique Number problem** (using XOR).  
+- Worked on **sequence generation** with loops.  
+- Improved searching and problem-solving skills.  
 
 ---
 
