@@ -12,6 +12,7 @@ Each day contains multiple problems, their solutions, and concepts implemented i
 - **Day03/** → Sorting algorithms + control statements  
 - **Day04/** → Functions & conditionals  
 - **Day05/** → Searching algorithms & problem solving  
+- **Day06/** → Advanced array problems  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -56,6 +57,15 @@ Each folder has:
 - Solved **Unique Number problem** (using XOR).  
 - Worked on **sequence generation** with loops.  
 - Improved searching and problem-solving skills.  
+
+### 🔹 Day 06
+- Solved **Maximum Subarray Sum** (Kadane’s Algo).  
+- Solved **Maximum Circular Subarray Sum**.  
+- Practiced **two-pointer problems**:
+  - Target Sum Pairs
+  - Container with Most Water  
+- Solved **Dutch National Flag problem** (array partitioning).  
+- Homework: Merge two sorted arrays.  
 
 ---
 
