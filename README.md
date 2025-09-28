@@ -13,6 +13,7 @@ Each day contains multiple problems, their solutions, and concepts implemented i
 - **Day04/** → Functions & conditionals  
 - **Day05/** → Searching algorithms & problem solving  
 - **Day06/** → Advanced array problems  
+- **Day07/** → Prime sieve, array manipulation, rainwater trapping  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -66,6 +67,13 @@ Each folder has:
   - Container with Most Water  
 - Solved **Dutch National Flag problem** (array partitioning).  
 - Homework: Merge two sorted arrays.  
+
+### 🔹 Day 07
+- Implemented **Prime Sieve** (Sieve of Eratosthenes).  
+- Solved **Product of Array Except Self** using prefix-suffix arrays.  
+- Practiced **Rain Water Trapping** with two pointers.  
+- Learned **in-place merge** of sorted arrays.  
+- Homework: **Good Sub-Arrays problem**.  
 
 ---
 
