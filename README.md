@@ -14,6 +14,7 @@ Each day contains multiple problems, their solutions, and concepts implemented i
 - **Day05/** → Searching algorithms & problem solving  
 - **Day06/** → Advanced array problems  
 - **Day07/** → Prime sieve, array manipulation, rainwater trapping  
+- **Day08/** → Pointers in C++  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -74,6 +75,11 @@ Each folder has:
 - Practiced **Rain Water Trapping** with two pointers.  
 - Learned **in-place merge** of sorted arrays.  
 - Homework: **Good Sub-Arrays problem**.  
+
+### 🔹 Day 08
+- Learned the fundamentals of **pointers in C++**.  
+- Covered dereferencing, pointer arithmetic, void pointers, null pointers, and double pointers.  
+- Practiced the strong relationship between **arrays and pointers**.  
 
 ---
 
