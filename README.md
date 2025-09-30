@@ -15,6 +15,7 @@ Each day contains multiple problems, their solutions, and concepts implemented i
 - **Day06/** → Advanced array problems  
 - **Day07/** → Prime sieve, array manipulation, rainwater trapping  
 - **Day08/** → Pointers in C++  
+- **Day09/** → Character arrays & strings basics  
 - *(… more days will be added as I progress …)*  
 
 Each folder has:
@@ -80,6 +81,13 @@ Each folder has:
 - Learned the fundamentals of **pointers in C++**.  
 - Covered dereferencing, pointer arithmetic, void pointers, null pointers, and double pointers.  
 - Practiced the strong relationship between **arrays and pointers**.  
+
+### 🔹 Day 09
+- Learned basics of **character arrays** and **strings** in C++.  
+- Implemented palindrome check.  
+- Practiced finding largest string among N inputs.  
+- Explored the `string` class and its operations.  
+- Generated **substrings** using loops.  
 
 ---
 
